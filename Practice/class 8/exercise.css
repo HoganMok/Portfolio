@@ -1,0 +1,13 @@
+.a{
+    display: block;
+}
+
+.text{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.search_box {
+    width: 300px;
+}
